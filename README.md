@@ -1,4 +1,5 @@
 Esse projeto me proporcionou o conhecimento em:
+
 1.v-for: A diretiva v-for é usada em Vue.js para renderizar uma lista de itens baseados em um array ou objeto.
 Por exemplo, você pode iterar sobre uma matriz de itens e renderizar um elemento para cada item na matriz. 
 
